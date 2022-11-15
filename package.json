@@ -1,0 +1,12 @@
+{
+  "name": "udp_server",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ."
+  },
+  "dependencies": {
+    "dgram": "^1.0.1"
+  }
+}
